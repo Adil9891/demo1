@@ -6,9 +6,9 @@
     <link rel="stylesheet" href="design.css" >
 </head>
 <body>
-<h1><%= "application!" %>
+<h1><%= "Test!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="hello-servlet">Hello </a>
 </body>
 </html>
