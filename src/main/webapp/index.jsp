@@ -6,11 +6,17 @@
     <link rel="stylesheet" href="design.css" >
 </head>
 <body>
-<h1><%= "Test!" %>
+<h1><%= "Test 1" %>
 </h1>
 <h2><%= "Test 2" %>
 </h2>
 <br/>
 <a href="hello-servlet">Hello </a>
+
+<form action='hello-servlet'>
+    <button>HelloWorldServlet1</button>
+</form>
+
+</button>
 </body>
 </html>

@@ -1,6 +1,6 @@
-*{
-    background-color: rgb(208, 237, 245);
-    color: rgb(149, 77, 59);
+
+body{
+    background-color: thistle;
 }
 table{
     width: 100%;
@@ -15,5 +15,4 @@ td{
 td:hover{
     
     background-color: rgb(57, 166, 90);
-    
 }
